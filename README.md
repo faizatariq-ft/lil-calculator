@@ -1,8 +1,7 @@
-# lil-calculator
+# lil-converter
 # Simple Unit Converter (C++) (my first code)
 A lightweight, interactive command-line application written in C++ that performs basic conversions for length, weight, and temperature.
 
-Before you can run a C++ program, the source code (`project.cpp`) must be translated into machine-readable binary code
 
  **contains**
 - **Length Conversions**:
