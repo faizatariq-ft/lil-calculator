@@ -13,7 +13,7 @@ Before you can run a C++ program, the source code (`project.cpp`) must be transl
   - Grams ↔ Kilograms
 - **Temperature Conversions**:
   - Celsius ↔ Fahrenheit
-- **Interactive Menu**: User-friendly loop with formatted two-decimal precision output.
+- **Interactive Menu**: User-friendly loop with formatted two-decimal-place output.
 
 ### Example usage
 1. Length (Meters/Feet/Miles)
@@ -21,12 +21,8 @@ Before you can run a C++ program, the source code (`project.cpp`) must be transl
 3. Temperature (Celsius/Fahrenheit)
 4. Exit
 Enter your choice: 3
-***
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
-***
 Choice: 1
-***
 Enter temperature: 25
-***
 25.00C = 77.00 F
